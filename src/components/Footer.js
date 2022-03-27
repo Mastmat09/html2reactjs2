@@ -9,7 +9,7 @@ export const Footer = () => {
             <a href="#">Back to top</a>
           </p>
           <p className="mb-1">Album example is &copy; Bootstrap, but please download and customize it for yourself!</p>
-          <p className="mb-0">New to Bootstrap? <a href="http://www.dronefutur.fr">Visit the homepage</a> or read our <a href="../getting-started/introduction/">getting started guide</a>.</p>
+          <p className="mb-0">New to Bootstrap? <a href="http://www.dronefutur.fr">Visit the homepage</a> or read our <a href="http://www.dronefutur.fr">getting started guide</a>.</p>
         </div>
       </footer>
     </section>
