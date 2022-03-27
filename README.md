@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Getting Started with creating a simple template website with Bootstrap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![appCover](./public/chrome-capture-2022-2-20.gif)
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install bootstrap`
+
+### `npm i react-bootstrap`
 
 ### `npm start`
 
