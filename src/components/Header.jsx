@@ -1,5 +1,5 @@
 import Image from "react-bootstrap/Image";
-import Bootstrap from "../components/assets/bootstrap-themes.png";
+import Bootstrap from "../components/assets/bootstrap-themes.webp";
 
 
 export const Header = () => {
