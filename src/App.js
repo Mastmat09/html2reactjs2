@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import './headers.css';
 import './features.css';
-
+import { Inside } from "./components/Inside";
 import { Footer } from "./components/Footer";
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-       
+       <Inside />
       </header>
       <Footer /> 
     </div>
