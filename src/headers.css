@@ -31,12 +31,12 @@
   outline: 0;
 }
 .bg-image1 {
-  background-image: url('/src/components/assets/design1.jpg');
+  background-image: url('/src/components/assets/design1.webp');
 }
 
 .bg-image2 {
-  background-image: url('/src/components/assets/design2.jpg');
+  background-image: url('/src/components/assets/design2.webp');
 }
 .bg-image3 {
-  background-image: url('/src/components/assets/design3.jpg');
+  background-image: url('/src/components/assets/design3.webp');
 }
