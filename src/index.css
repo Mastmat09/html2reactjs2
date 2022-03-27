@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.bgcolordark {
+            background-color: blueviolet;            
+        }
+        #custom-card{background-color: rgb(123, 30, 209);}
+        section.containerfoot{background-color: rgb(111, 24, 192);}
+        h1{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        
+      }
+      h2{font-size:35px;}
+        .nav-item a.nav-link{color: #fff !important;}
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
