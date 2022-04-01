@@ -8,7 +8,7 @@ export const Footer = () => {
           <p className="float-end mb-1">            
           </p>
           <p className="mb-1">&copy; Html2react / is a new service provided to transform your website into React JS</p>
-          <p className="mb-0">New to Bootstrap? </p>
+          <p className="mb-0">Need help? </p>
         </div>
       </footer>
     </section>
