@@ -7,12 +7,10 @@ import { Inside } from "./components/Inside";
 import { Footer } from "./components/Footer";
 
 function App() {
-  return (
-    <div className="App">
+  return (    
        <Header />
        <Inside />     
-       <Footer /> 
-    </div>
+       <Footer />    
   );
 }
 
