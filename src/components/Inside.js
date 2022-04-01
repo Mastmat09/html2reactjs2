@@ -15,11 +15,11 @@ export const Inside = () => {
                   </li>
                   <li className="d-flex align-items-center me-3">
                     <svg className="bi me-2" width="1em" height="1em"></svg>
-                    <small>Earth</small>
+                    <small>HTML</small>
                   </li>
                   <li className="d-flex align-items-center">
                     <svg className="bi me-2" width="1em" height="1em"></svg>
-                    <small>3d</small>
+                    <small>@</small>
                   </li>
                 </ul>
               </div>
@@ -36,11 +36,11 @@ export const Inside = () => {
                   </li>
                   <li className="d-flex align-items-center me-3">
                     <svg className="bi me-2" width="1em" height="1em"></svg>
-                    <small>Pakistan</small>
+                    <small>Json</small>
                   </li>
                   <li className="d-flex align-items-center">
                     <svg className="bi me-2" width="1em" height="1em"></svg>
-                    <small>4d</small>
+                    <small>&</small>
                   </li>
                 </ul>
               </div>
@@ -57,11 +57,11 @@ export const Inside = () => {
                   </li>
                   <li className="d-flex align-items-center me-3">
                     <svg className="bi me-2" width="1em" height="1em"></svg>
-                    <small>Californias</small>
+                    <small>CSS</small>
                   </li>
                   <li className="d-flex align-items-center">
                     <svg className="bi me-2" width="1em" height="1em"></svg>
-                    <small>5d</small>
+                    <small>*</small>
                   </li>
                 </ul>
               </div>
