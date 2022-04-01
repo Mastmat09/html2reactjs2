@@ -29,9 +29,9 @@ export const Header = () => {
         <Image src={Bootstrap}  className="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy" />
       </div>
       <div className="col-lg-6">
-        <h1 className="display-5 fw-bold lh-1 mb-3">Transform your old project to a better one</h1>
-        <p className="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
-        <div className="d-grid gap-2 d-md-flex justify-content-md-start">
+       <h1 className="display-5 fw-bold lh-1 mb-3 titan">Transform your old <span className="color1">HTML</span> project to <span className="color2">React Js</span></h1       
+         <p className="lead colorwhite">Quickly let us design and customize your responsive mobile-first sites with Bootstrap and React Js to prevent vulnerabilities that hackers can exploit. In Normal html basic website one such vulnerability is cross-site scripting (XSS). React Js is the solution to prevent your website from attack.</p>
+       <div className="d-grid gap-2 d-md-flex justify-content-md-start">
           <button type="button" className="btn btn-primary btn-lg px-4 me-md-2">Primary</button>
      
         </div>
