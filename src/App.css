@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -36,3 +37,21 @@
     transform: rotate(360deg);
   }
 }
+
+h1.titan{
+	color:aliceblue;
+	font-family: 'Alfa Slab One', cursive;
+	font-size:50px;		
+	}
+  .colorwhite{
+    color:aliceblue;
+    }
+    .color1{
+      color:rgb(255, 241, 160); 
+      }
+    .color2{
+      color:rgb(255, 170, 170); 
+      }
+.container header span{color:aliceblue;}
+#custom-card h2{color:aliceblue;}
+footer p{color:aliceblue;}
