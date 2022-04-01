@@ -1,4 +1,4 @@
-# Getting Started with creating a simple template website with Bootstrap
+# This project is my personal website created with Bootstrap & React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
