@@ -55,7 +55,7 @@ export const Inside = () => {
                   <li className="me-auto">
                     <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white"></img>
                   </li>
-                  <li class="d-flex align-items-center me-3">
+                  <li className="d-flex align-items-center me-3">
                     <svg className="bi me-2" width="1em" height="1em"></svg>
                     <small>Californias</small>
                   </li>
