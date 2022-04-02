@@ -55,3 +55,20 @@ h1.titan{
 .container header span{color:aliceblue;}
 #custom-card h2{color:aliceblue;}
 footer p{color:aliceblue;}
+
+
+.bg-body.bgimagedesign {
+ 
+  background-image:url("florian.jpg");
+  width: 80%; height: 300px; border-radius: 21px 21px 0 0;
+}
+.bg-body.bgimagedesignreact {
+ 
+  background-image:url("ferenc.jpg");
+  width: 80%; height: 300px; border-radius: 21px 21px 0 0;
+}
+.bgcolorhtmlreact {
+  background-color: rgb(54, 53, 110);
+  color:antiquewhite;            
+}
+.fifty50 { width:50%;}
