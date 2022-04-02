@@ -16,7 +16,7 @@ code {
         }
         #custom-card{background-color: rgb(123, 30, 209);}
         section.containerfoot{background-color: rgb(111, 24, 192);}
-       
+        .bgfooter{background-color: darkslategray;}
       h2{font-size:35px;}
         .nav-item a.nav-link{color: #fff !important;}
       .bd-placeholder-img {
