@@ -1,3 +1,4 @@
+import Logoreactjs from "../components/assets/react-1.svg";
 export const Inside = () => {
     return (
       <section id="custom-card">
@@ -11,7 +12,7 @@ export const Inside = () => {
                 <h2 className="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Easy custom Boostrap Design</h2>
                 <ul className="d-flex list-unstyled mt-auto">
                   <li className="me-auto">
-                    <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white"></img>
+                    <img src={Logoreactjs} alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white"></img>
                   </li>
                   <li className="d-flex align-items-center me-3">
                     <svg className="bi me-2" width="1em" height="1em"></svg>
@@ -32,7 +33,7 @@ export const Inside = () => {
                 <h2 className="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Code has to be newly revamped</h2>
                 <ul className="d-flex list-unstyled mt-auto">
                   <li className="me-auto">
-                    <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white"></img>
+                    <img src={Logoreactjs} alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white"></img>
                   </li>
                   <li className="d-flex align-items-center me-3">
                     <svg className="bi me-2" width="1em" height="1em"></svg>
@@ -53,7 +54,7 @@ export const Inside = () => {
                 <h2 className="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Many componemts are available</h2>
                 <ul className="d-flex list-unstyled mt-auto">
                   <li className="me-auto">
-                    <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white"></img>
+                    <img src={Logoreactjs} alt="Bootstrap" width="32" height="32" className="rounded-circle border border-white"></img>
                   </li>
                   <li className="d-flex align-items-center me-3">
                     <svg className="bi me-2" width="1em" height="1em"></svg>
