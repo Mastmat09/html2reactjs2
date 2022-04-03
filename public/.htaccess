@@ -1,6 +1,7 @@
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^html2react.com
+RewriteCond %{HTTP_HOST} ^html2react\.com [NC]
 RewriteRule (.*) https://www.html2react.com/$1 [R=301,L]
+
 
 
 
