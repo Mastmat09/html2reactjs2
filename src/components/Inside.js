@@ -51,7 +51,7 @@ export const Inside = () => {
           <div className="col">
             <div className="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg bg-image3" >
               <div className="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-                <h2 className="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Many componemts are available</h2>
+                <h2 className="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">React JS build good defences against malicious attacks</h2>
                 <ul className="d-flex list-unstyled mt-auto">
                   <li className="me-auto">
                     <img src={Logoreactjs} alt="Bootstrap" width="32" height="32" className="rounded-circle"></img>
