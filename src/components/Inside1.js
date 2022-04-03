@@ -1,9 +1,9 @@
-import Slide from "react-reveal";
+
 export const Inside1 = () => {
     return (
       
 <section>
-        <Slide left duration={1300}>
+      
 <div className="d-flex justify-content-center bgcolorhtmlreact ">
   
   <div className="mx-1 text-center overflow-hidden fifty50">
@@ -35,7 +35,7 @@ export const Inside1 = () => {
       </div>
     </div>
   </div>
-  </Slide>
+ 
  </section>
         );
     };
