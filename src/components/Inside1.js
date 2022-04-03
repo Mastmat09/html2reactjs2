@@ -2,7 +2,7 @@
 export const Inside1 = () => {
     return (
       
-<section>
+<section id="compare">
       
 <div className="d-flex justify-content-center bgcolorhtmlreact ">
   
