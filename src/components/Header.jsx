@@ -16,10 +16,9 @@ export const Header = () => {
         </a>
         <ul className="nav nav-pills">
         <li className="nav-item"><a href="/" className="nav-link" aria-current="page">Home</a></li>
-        <li className="nav-item"><a href="/" className="nav-link">Features</a></li>
-        <li className="nav-item"><a href="/" className="nav-link">Pricing</a></li>
-        <li className="nav-item"><a href="/" className="nav-link">FAQs</a></li>
-        <li className="nav-item"><a href="/" className="nav-link">About</a></li>
+        <li className="nav-item"><a href="#custom-card" className="nav-link">Examples</a></li>
+        <li className="nav-item"><a href="#compare" className="nav-link">Compare</a></li>        
+        <li className="nav-item"><a href="#compare" className="nav-link">About</a></li>
       </ul>
         </header>
     </div>
