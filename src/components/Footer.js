@@ -11,7 +11,9 @@ export const Footer = () => {
          <a href="https://en.reactjs.org/" target="_blank" rel="noreferrer">
           <button type="button" className="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold">Documentation</button>
         </a>
-          <button type="button" className="btn btn-outline-light btn-lg px-4">Secondary</button>
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+          <button type="button" className="btn btn-outline-light btn-lg px-4">Get Bootstrap</button>
+         </a>
         </div>
       </div>
     </div>
