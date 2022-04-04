@@ -6,7 +6,7 @@ export const Footer = () => {
     <div className="py-5">
       <h1 className="display-5 fw-bold text-white">Transform your website into React</h1>
       <div className="col-lg-6 mx-auto">
-        <p className="fs-5 mb-4">The react new system technology allow customer to define their ways how to create a new component</p>
+        <p className="fs-5 mb-4">The React JS Javascript Library is made for building web user interfaces based on UI components.</p>
         <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
          <a href="https://en.reactjs.org/" target="_blank" rel="noreferrer">
           <button type="button" className="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold">Documentation</button>
