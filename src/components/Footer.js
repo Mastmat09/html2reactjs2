@@ -8,7 +8,9 @@ export const Footer = () => {
       <div className="col-lg-6 mx-auto">
         <p className="fs-5 mb-4">The react new system technology allow customer to define their ways how to create a new component</p>
         <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
-          <button type="button" className="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold">Custom button</button>
+         <a href="https://en.reactjs.org/" target="_blank" rel="noreferrer">
+          <button type="button" className="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold">Documentation</button>
+        </a>
           <button type="button" className="btn btn-outline-light btn-lg px-4">Secondary</button>
         </div>
       </div>
