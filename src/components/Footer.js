@@ -17,7 +17,7 @@ export const Footer = () => {
         </div>
       </div>
     </div>
-      <p className="mb-1 text-center text-small">&copy; 2022 HTML2REACT is newly produced by <a href="http://www.webolmes.fr" >www.webolmes.fr</a></p>
+      <p className="mb-1 text-center text-small">&copy; 2022 HTML2REACT is newly produced by <a href="https://www.dronefutur.fr" >www.dronefutur.fr</a></p>
     
     </div>
     );
