@@ -1,4 +1,4 @@
-# This project is my personal website created with Bootstrap & React
+# This project is my goal to create a website with Bootstrap & React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
